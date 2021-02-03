@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Kathrin Borisova](https://up.htmlacademy.ru/react/6/user/1216329).
-* Наставник: `Неизвестно`.
+* Наставник: `Алексей Овчинников`.
 
 ---
 
